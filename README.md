@@ -1,5 +1,5 @@
 
-<a href="https://www.leetcode.com/akiyaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akiyaki" height="30" width="40" /></a>
-<p>Certified top 80% easy problem Leetcoder</p>
+<img src="https://github.com/Jari-Daemen/Jari-Daemen/assets/82100834/cbcc2ed2-cebd-4336-a0b1-7994258be845">
 
-<p>5 IQ creature with imposter syndrome</p>
+<!--<a href="https://www.leetcode.com/akiyaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akiyaki" height="30" width="40" /></a>
+
