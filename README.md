@@ -3,3 +3,4 @@
 
 <!--<a href="https://www.leetcode.com/akiyaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akiyaki" height="30" width="40" /></a>
 
+![alt text](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png) 
